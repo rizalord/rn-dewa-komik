@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010926695556",
+    "firebase_url": "https://dewa-komik-759ae.firebaseio.com",
+    "project_id": "dewa-komik-759ae",
+    "storage_bucket": "dewa-komik-759ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010926695556:android:0fabb1bdd82609c4d9fed1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010926695556-0hhe8cq5nf0vumpouqb21mkv1mm90upq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJi8ul7VHrV6H29iFfIcIwHlyOCjNhyKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010926695556-0hhe8cq5nf0vumpouqb21mkv1mm90upq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
