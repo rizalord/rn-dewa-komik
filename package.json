@@ -14,7 +14,7 @@
     "core-js": "^3.6.4",
     "firebase": "^7.6.1",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-dark-mode": "^0.2.2",
     "react-native-dialog": "^5.6.0",
     "react-native-dialog-input": "^1.0.7",
